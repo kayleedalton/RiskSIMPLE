@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-51c1138aab4c086f24e0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Riskv4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Riskv4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Riskv4-Debug-7d303c35f8144a4abc59.json",
+					"name" : "Riskv4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Riskv4_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Riskv4_autogen-Debug-d946b77949fabf2214d2.json",
+					"name" : "Riskv4_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Riskv4_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Riskv4_autogen_timestamp_deps-Debug-7395759cd12ab7f46806.json",
+					"name" : "Riskv4_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/kayle/OneDrive/Documents/CapstoneCode/Riskv4/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/kayle/OneDrive/Documents/CapstoneCode/Riskv4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
